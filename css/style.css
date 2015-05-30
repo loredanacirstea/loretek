@@ -51,7 +51,7 @@ body {
 	position: absolute;
 	top: -1px;
 }
-.container { width:auto; margin:0 0px; padding: 0 0px;}
+.container { width:auto; margin:0 0px; padding: 0 0px; padding-top: 20px;}
 .sidebar-nav {
 	position:fixed;
 	width:180px;
@@ -210,6 +210,24 @@ body {
 .linked{
 	max-height: 50px
 }
+.img_table{
+	margin: auto;
+	max-height: 200px;
+	padding: 10px;
+}
+.thumb{
+	height: 510px;
+	overflow: auto;
+}
+.thumbh{
+	height: 450px;
+	overflow: auto;
+}
+.thumbe{
+	height: 400px;
+	overflow: auto;
+}
+
 
 /* preview */
 body.devpreview { margin-left:0px;}

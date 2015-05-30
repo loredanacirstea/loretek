@@ -26,21 +26,21 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
                 <li>
-                  <a href="#">Projects</a>
+                  <a href="projects.php">Projects</a>
                 </li>
                 <li>
-                  <a href="CV ver 2.0 IT.pdf">Work</a>
+                  <a href="docs/CVLoredanaCirstea.pdf">CV</a>
                 </li>
                 <li>
-                  <a href="#">Academics</a>
+                  <a href="edu.php">Academics</a>
                 </li>
                 <li>
-                  <a href="#">Hobbies</a>
+                  <a href="hobbies.php">Hobbies</a>
                 </li>
-                <li class="active">
+                <li>
                   <a href="contact.php">Contact</a>
-                </li>
-              </ul> 
+                </li>  
+              </ul>   
             </div>
           </nav>
           <div class="contact_group">
